@@ -12,3 +12,5 @@ Tool Used:<br>
 This repo contains two files:<br>
 1. IPL.sql : This file has complete mysql code of the file.<br>
 2. GROUP 7_FDBMS_IPL.xlsx: This file contains all the entity table , relationship tables and entity relationship digram.<br>
+Mysql ERD
+![image](https://user-images.githubusercontent.com/93219234/157817685-b97ba190-467c-4c62-bf6b-aaae93d28654.png)
